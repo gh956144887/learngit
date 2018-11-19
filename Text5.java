@@ -12,7 +12,7 @@ public class Text5 {
 		System.out.println("123");
 	}
 	public void ch(Object ob){
-		System.out.println("456");
+		System.out.println("456789");
 	}
 	
 	
