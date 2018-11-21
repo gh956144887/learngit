@@ -14,6 +14,10 @@ public class Text5 {
 	public void ch(Object ob){
 		System.out.println("456789");
 	}
+	public void text(){
+		System.out.println("第三次修改");
+	}
+	
 	
 	
 }
